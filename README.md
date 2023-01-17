@@ -1,4 +1,4 @@
-# Depolyed at Netlify
+# Deployed at Netlify
 
 https://incredible-pothos-453611.netlify.app
 
